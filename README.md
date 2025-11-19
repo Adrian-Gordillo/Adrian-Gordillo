@@ -1,0 +1,52 @@
+# 👋 ¡Hola! Soy Adrián Gordillo
+
+Soy estudiante de **1º de DAW intensivo** apasionado por la programación y el desarrollo de aplicaciones.  
+Actualmente estoy aprendiendo **Java, Git/GitHub y fundamentos de desarrollo web**, y practico a través de katas y pequeños proyectos.  
+
+---
+
+## 🛠️ Tecnologías y habilidades
+
+- **Lenguajes:** Java, HTML, CSS  
+- **Control de versiones:** Git & GitHub  
+- **Conceptos:** Programación orientada a objetos, lógica de programación, estructuras de datos básicas  
+- **Herramientas:** Visual Studio Code, IntelliJ IDEA  
+
+---
+
+## 📚 Proyectos destacados
+
+- **[Katas en Java]((https://github.com/Adrian-Gordillo/Katas))** – Colección de ejercicios y katas para practicar Java  
+- **[Proyecto Web de Prueba](https://github.com/tu-usuario/proyecto-web)** – Mini proyecto web desarrollado durante el curso  
+- **Más repositorios** → [Ver todos mis proyectos](https://github.com/Adrian-Gordillo?tab=repositories)
+
+---
+
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/tu-linkedin)  
+- Email: tuemail@example.com  
+
+---
+
+*"Aprendiendo, practicando y mejorando cada día para convertirme en un desarrollador competente."* 🚀
+
+## Hi there 👋
+
+
+
+<!--
+**Adrian-Gordillo/Adrian-Gordillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
