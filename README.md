@@ -16,7 +16,7 @@ Actualmente estoy aprendiendo **Java, Git/GitHub y fundamentos de desarrollo web
 
 ## 📚 Proyectos destacados
 
-- **[Katas en Java]((https://github.com/Adrian-Gordillo/Katas))** – Colección de ejercicios y katas para practicar Java  
+- **[Katas en Java](https://github.com/Adrian-Gordillo/Katas)** – Colección de ejercicios y katas para practicar Java  
 - **Más repositorios** → [Ver todos mis proyectos](https://github.com/Adrian-Gordillo?tab=repositories)
 
 ---
