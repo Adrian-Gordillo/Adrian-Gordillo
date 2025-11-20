@@ -32,21 +32,49 @@ Actualmente estoy aprendiendo **Java, Git/GitHub y fundamentos de desarrollo web
 
 *"Aprendiendo, practicando y mejorando cada día para convertirme en un desarrollador competente."* 🚀
 
-## Hi there 👋
+👋 Hi! I'm Adrián Gordillo
+
+I am a student in the 1st year of intensive DAW with a strong passion for programming and application development.
+I am currently learning Java, Git/GitHub, and web development fundamentals, and I practice through katas and small projects.
+
+
+---
+
+🛠️ Technologies & Skills
+
+Languages: Java, HTML, CSS
+
+Version control: Git & GitHub
+
+Concepts: Object-oriented programming, programming logic, basic data structures
+
+Tools: Visual Studio Code, IntelliJ IDEA
 
 
 
-<!--
-**Adrian-Gordillo/Adrian-Gordillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+📚 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java Katas – Collection of exercises and katas to practice Java
+
+More repositories → See all my projects
+
+
+
+---
+
+📫 Contact
+
+LinkedIn
+
+Email: adriangordillo96@gmail.com
+
+
+
+---
+
+"Learning, practicing, and improving every day to become a skilled developer." 🚀
+
+
+---
